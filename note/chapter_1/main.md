@@ -66,14 +66,38 @@
 
             - Công thức chuyển mức năng lượng: ![công thức chuyển mức năng lượng](dolechnangluong.png)
             - Trong đó:
-                + h là hằng số Planck, h = 6.626 × 10<sup>-34</sup>
+                + h là hằng số Planck, h = 6.626 × 10<sup>-34</sup> J/s
+                + c là tốc độ ánh sáng: 3 × 10<sup>8</sup> m/s
+                + λ là bước sóng ánh sáng, tính bằng mét.
+                + ΔE tính bằng đơn vị J.
+            
+            - Một cách dễ hơn:
+                + hc = 1240 eV / nm
+                + λ tính theo đơn vị nm.
+                + ΔE tính bằng đơn vị eV.
+        
+        2. Số lượng tử orbital l và hình dạng đám mây e
+
+            - l xác định E trong đám mây nguyên tử nhiều e. l tăng => E tăng
+            - và <u>hình dạng</u> đám mây electron
+
+            - phân lớp electron: các e cùng n và l, kí hiệu: s, p, d, f...
+
+            - Ký hiệu phân lớp: 1s, 2s, 2p, 3s, 3p, 3d,...
+
+        3. Số lượng tử từ m<sub>l</sub>
+
+            - m<sub>l</sub> xác định <u>hướng</u> của đám mây electron.
+            - => xác định được đám mây e bằng 3 số n, l, m<sub>l</sub>. Đây là orbitan nguyên tử (AO), kí hiệu ▢.
+        
+        4. Số lượng tử spin m<sub>s</sub>
+
+            - m<sub>s</sub> xác định sự tự quay quanh trục của e.
+            - m<sub>s</sub> = ± 1/2 - ứng với chiều quay thuận/nghịch kim đồng hồ.
+            - Xác định được e thông qua 4 giá trị trên.
+
 
 
 4. Nguyên tử nhiều e
 
-    1. Với 1 e:
-
-        - n=1: 1s -> trạng thái cơ bản: 1e ở đây
-        - n=2: 2s, 2p...
     
-    2. Nhiều e:
