@@ -45,7 +45,7 @@
 
         - Quy ước: đám mây e = vùng không gian gần hạt nhân: trong đó chứa khoảng 90% xác suất có mặt của e. Hình dạng đám mây = bề mặt giới hạn vùng không gian đó.
 3. Phương trình sóng Schrödinger
-![Phương trình sóng](/image.png)
+![Phương trình sóng](image.png)
 4. Nguyên tử nhiều e
 
     1. Với 1 e:
