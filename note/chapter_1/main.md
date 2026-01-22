@@ -44,8 +44,31 @@
         - Vùng không gian = đám mây e: mật độ đám mây ~ xác suất có mặt của e
 
         - Quy ước: đám mây e = vùng không gian gần hạt nhân: trong đó chứa khoảng 90% xác suất có mặt của e. Hình dạng đám mây = bề mặt giới hạn vùng không gian đó.
-3. Phương trình sóng Schrödinger
-![Phương trình sóng](image.png)
+
+3. Phương trình sóng Schrödinger và 4 số luọng tử
+
+    ![Phương trình sóng](phuongtrinhschro.png)
+
+    2. Bốn số lượng tử của electron trong điện trường 1 hạt nhân
+
+        1. Số lượng tử chính n và các mức năng lượng
+        
+            - n xác định trạng thái năng lượng (tức là, mức năng lượng của electron)
+            - và kích thước trung bình của đám mây electron (tức là, khoảng cách trung bình của e tới hạt nhân.)
+
+            ![Công thức năng lượng e và r-](soluongtuchinhn.png)
+
+            - n là giá trị nguyên dương, nhận tất cả các giá trị và tiến gần đến ∞.
+
+            - Nếu e ở mức / trạng thái năng lượng n => có giá trị năng lượng E<sub>n</sub>.
+
+            - E<sub>min</sub> là trạng thái cơ bản nhất của e. (n thấp nhất có thể). Nếu n > min => trạng thái kích thích, dễ quay về mức thấp hơn.
+
+            - Công thức chuyển mức năng lượng: ![công thức chuyển mức năng lượng](dolechnangluong.png)
+            - Trong đó:
+                + h là hằng số Planck, h = 6.626 × 10<sup>-34</sup>
+
+
 4. Nguyên tử nhiều e
 
     1. Với 1 e:
