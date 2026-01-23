@@ -95,9 +95,53 @@
             - m<sub>s</sub> xác định sự tự quay quanh trục của e.
             - m<sub>s</sub> = ± 1/2 - ứng với chiều quay thuận/nghịch kim đồng hồ.
             - Xác định được e thông qua 4 giá trị trên.
+    
+    1. Giải phương trình Schrodinger
+        - Từ n, l, m<sub>l</sub> => Ψ => tìm được orbital tương ứng của e.
 
 
 
 4. Nguyên tử nhiều e
+
+    1. Trạng thái năng lượng của e trong nguyên tử nhiều e
+
+        - e vẫn có thể được xác định bởi 4 số lượng tử;
+        => hình dạng, độ lớn, phân bố, định hướng AO.
+
+        - tuy nhiên, năng lượng phụ thuộc cả n và l
+        - và lực tương tác có thêm lực đẩy e-e.
+
+        => hiệu ứng chắn và xâm nhập
+
+        1. Hiệu ứng chắn:
+            
+            - các lớp electron bên trong biến thành màn chắn làm yếu lực hút của hạt nhân đối với các electron bên ngoài.
+
+            - n tăng, e tăng -> hiệu ứng chắn tăng
+        
+        2. Hiệu ứng xâm nhập:
+
+            - Khả năng xâm nhập giảm khi n và l tăng.
+
+            - Thứ tự năng lượng của các phân lớp trong ngtử nhiều e:
+                + 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f ≈ 6d
+    
+    2. Các quy luật phân bố e vào nguyên tử nhiều e
+
+        1. Nguyên lý loại trừ Pauli
+
+            - Trong 1 ngtử không thể có 2e có cùng 4 số lượng tử. Một AO chứa tối đa hai 2e có spin ngược dấu.
+        
+        2. Nguyên lý vững bền
+
+            - Điền orbital: Còn phòng trống là còn ở riêng, không pair cho tới khi hết slot.
+            - Quy ước: đặt + trước, - sau.
+        
+        3. Bài tập mẫu: Tìm 4 số lượng tử e điền sau cùng (điền cuối cùng, không phải n max):
+
+            - Z = 13, 27, 42, 36, 52, 71, 91, 87
+
+
+
 
     
